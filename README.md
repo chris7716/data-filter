@@ -8,4 +8,4 @@
 ![filtered data plot 1](assets/filter-1.png)
 
 ### Filtered Data - Using Moving Window Filter
-![filtered data plot 2](assets/filter-1.png)
+![filtered data plot 2](assets/filter-2.png)
